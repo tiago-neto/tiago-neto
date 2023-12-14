@@ -7,7 +7,7 @@ I am a junior Web Developer, living in Porto, Portugal.
 
 My bootcamp projects :
 
-[RoomMate] (https://github.com/Cauxi/AirBnb-Jets): Web app for young adults who need to find roomrates to share a house.
+[RoomMate] (https://github.com/Cauxi/Room-Mate): Web app for young adults who need to find roomrates to share a house.
 
 [AirBnb-Jets] (https://github.com/Cauxi/AirBnb-Jets): An Airbnb clone developed during the Le Wagon bootcamp. 
 
